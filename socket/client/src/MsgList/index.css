@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+
+.msgList.ant-list-sm .ant-list-item {
+  padding: 4px;
+}
+
+.userInfo {
+  color: #1890ff;
+}
+
+.memberMsg {
+  margin: 0 auto;
+  width: auto;
+  padding: 4px 16px;
+  background-color: #ccc;
+  border-radius: 4px;
+}
